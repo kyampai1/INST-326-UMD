@@ -1,3 +1,7 @@
-def say():
+def say_hi():
     print ("Hello")
-say()
+say_hi()
+
+def say_bye():
+    print ("Goodbye")
+say_bye()
